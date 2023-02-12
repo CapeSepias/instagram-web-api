@@ -63,7 +63,7 @@
     "useragent-from-seed": "^1.0.1"
   },
   "devDependencies": {
-    "ava": "^2.4.0",
+    "ava": "^5.2.0",
     "eslint-config-prettier": "^2.10.0",
     "husky": "^3.0.9",
     "lint-staged": "^10.2.11",
